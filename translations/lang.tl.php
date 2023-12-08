@@ -86,7 +86,7 @@ $lang['MESSAGE_LOBO'] = "Ang bawat tao'y ay isang";
 $lang['MESSAGE_LOBO_INTRO'] = "Ang University of Elektriko at Computer Engineers New Mexico nais na ipakilala Carina!";
 $lang['MESSAGE_MISSION'] = "Ang aming Mission";
 $lang['MESSAGE_CARINA_MISSION'] = 'Pahayag CARINA Mission';
-$lang['MESSAGE_MISSION_1'] = "Ang layunin ng proyektong ito ay upang magbigay ng isang collaborative na 
+$lang['MESSAGE_MISSION_1'] = "ttttttt Ang layunin ng proyektong ito ay upang magbigay ng isang collaborative na 
                             internet application (web app) kung saan ang mga gumagamit ay magagawang upang 
                             i-annotate solar obserbasyonal mga imahe. Gagamitin ng mga gumagamit ng isang mouse
                             mag-click sa kahabaan ng perimeter ng ​​korona butas sa mga larawan.
